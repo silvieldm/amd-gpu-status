@@ -1,0 +1,5 @@
+data/*.jsonl
+data/last.json
+data/.sample.lock
+.openchamber/
+.DS_Store
